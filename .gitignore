@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.out
+*.log
+*.txt
+*.csv
+# Ignore directories
+Logs/
+Outs/
+Output/
